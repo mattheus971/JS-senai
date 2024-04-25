@@ -1,0 +1,42 @@
+h1{
+    color: rgb(93, 168, 255);
+    background-color: rgb(80, 80, 80);
+    padding: 5px;
+    border-radius: 7px;
+    border: 2px solid rgb(93, 168, 255);
+
+}
+h1:hover{
+    background-color: rgb(93, 168, 255);
+    border: 2px solid rgb(93, 168, 255);
+    color: aliceblue;
+}
+h2{
+    color: rgb(93, 168, 255);
+    background-color: rgb(80, 80, 80);
+    padding: 5px;
+    border-radius: 7px;
+    border: 2px solid rgb(93, 168, 255);
+
+}
+
+h2:hover{
+    background-color: rgb(93, 168, 255);
+    border: 2px solid rgb(93, 168, 255);
+    color: aliceblue;
+}
+h3{
+    color: rgb(93, 168, 255);
+}
+li{
+    color: aliceblue;
+}
+img{
+    width: 200px;
+}
+body{
+    background-color: #484848
+}
+p{
+    color: aliceblue;
+}
